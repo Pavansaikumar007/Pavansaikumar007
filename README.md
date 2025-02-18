@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pavan sai kumar siripurapu</h1>
+<h1 align="center">Hi 👋, I'm Pavan Sai Kumar Siripurapu</h1>
 <h3 align="center">I’m a passionate frontend developer from India. I love building seamless and engaging web experiences.</h3>
 
 - 🌱 I’m currently learning **React, Typescript**
